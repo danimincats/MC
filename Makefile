@@ -7,12 +7,12 @@
 
 .PHONY=all
 
-SRC:=edo.c util.c rk44.c
+SRC:=edo.c util.c rkf45.c
 
 INC:= metodos.h util.h
 
 CC:=gcc
-CFLAGS:=-W -O3 -pedantic -std=c99 
+CFLAGS:=-W -Wall -pedantic -O3 -std=c11
 LFLAGS:=-lm
 BIN:=edo
 
