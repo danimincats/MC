@@ -2,6 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
+#include <locale.h>
 
 #include "util.h"
 #include "metodos.h"
@@ -25,6 +26,7 @@ static void free_parameters(void);
 
 int main(int argc, char **argv)
 {
+  setlocale(LC_ALL,"pt_BR");
 	option_check(argc,argv);
 	read_parameters();
 	FILE *f=fopen(filename_out,"wt");
