@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1353349040 source:c:\users\danielle mingatos\documents\github\mestrado\adamsbash3steps.c
+
+1369762080 source:c:\users\danielle mingatos\documents\github\mestrado\edo.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"metodos.h"
+
+1358169876 c:\users\danielle mingatos\documents\github\mestrado\util.h
+
+1381518155 c:\users\danielle mingatos\documents\github\mestrado\metodos.h
+	<stdlib.h>
+
+1358886304 source:c:\users\danielle mingatos\documents\github\mestrado\max.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1381518249 source:c:\users\danielle mingatos\documents\github\mestrado\rk33.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1376064010 source:c:\users\danielle mingatos\documents\github\mestrado\rk44.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1359049324 source:c:\users\danielle mingatos\documents\github\mestrado\rkf.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1359039486 source:c:\users\danielle mingatos\documents\github\mestrado\rkf45.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1364945836 source:c:\users\danielle mingatos\documents\github\mestrado\rkf56.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1353348998 source:c:\users\danielle mingatos\documents\github\mestrado\simpson.c
+
+1353348974 source:c:\users\danielle mingatos\documents\github\mestrado\trapezio.c
+
+1355316240 source:c:\users\danielle mingatos\documents\github\mestrado\util.c
+	<stdio.h>
+	<stdlib.h>
+
+1353349040 source:c:\users\danielle mingatos\documents\github\edo\adamsbash3steps.c
+
+1392298648 source:c:\users\danielle mingatos\documents\github\edo\edo.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+	"metodos.h"
+
+1358169876 c:\users\danielle mingatos\documents\github\edo\util.h
+
+1392298648 c:\users\danielle mingatos\documents\github\edo\metodos.h
+	<stdlib.h>
+
+1358886304 source:c:\users\danielle mingatos\documents\github\edo\max.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1381526533 source:c:\users\danielle mingatos\documents\github\edo\rk33.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1391558556 source:c:\users\danielle mingatos\documents\github\edo\rk44.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1359049324 source:c:\users\danielle mingatos\documents\github\edo\rkf.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1401218228 source:c:\users\danielle mingatos\documents\github\edo\rkf45.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1364945836 source:c:\users\danielle mingatos\documents\github\edo\rkf56.c
+	<stdio.h>
+	<math.h>
+	"metodos.h"
+
+1353348998 source:c:\users\danielle mingatos\documents\github\edo\simpson.c
+
+1353348974 source:c:\users\danielle mingatos\documents\github\edo\trapezio.c
+
+1355316240 source:c:\users\danielle mingatos\documents\github\edo\util.c
+	<stdio.h>
+	<stdlib.h>
+
